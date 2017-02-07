@@ -1,0 +1,7 @@
+main: com.gmail.darastlix.PolyTool
+version: 1.0
+name: PolyTool
+
+commands:
+  voro:
+    description: Generates voronoi ball similar to rock
